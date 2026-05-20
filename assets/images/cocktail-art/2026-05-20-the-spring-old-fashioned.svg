@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Spring Old Fashioned cocktail line art</title>
+  <desc id="desc">Black-and-white line drawing of a The Spring Old Fashioned served with orange slice.</desc>
+  <rect width="300" height="300" fill="#fff"/>
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M82 76 H218 L198 230 H102 Z"/>
+  <path d="M98 112 H202" stroke-width="4"/>
+  <rect x="116" y="126" width="40" height="40" rx="5" stroke-width="4" transform="rotate(-10 136 146)"/>
+  <rect x="150" y="151" width="38" height="38" rx="5" stroke-width="4" transform="rotate(12 169 170)"/>
+  <circle cx="207" cy="77" r="29"/>
+  <circle cx="207" cy="77" r="16" stroke-width="4"/>
+  <path d="M207 48 V106" stroke-width="4"/>
+  <path d="M178 77 H236" stroke-width="4"/>
+  </g>
+</svg>
