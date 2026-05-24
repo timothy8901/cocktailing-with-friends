@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The White Linen cocktail line art</title>
+  <desc id="desc">Black-and-white line drawing of a The White Linen served with lemon twist.</desc>
+  <rect width="300" height="300" fill="#fff"/>
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M92 54 H208 L194 230 H106 Z"/>
+  <path d="M104 86 H196" stroke-width="4"/>
+  <rect x="122" y="104" width="34" height="34" rx="4" stroke-width="4" transform="rotate(-8 139 121)"/>
+  <rect x="153" y="143" width="34" height="34" rx="4" stroke-width="4" transform="rotate(9 170 160)"/>
+  <path d="M202 60 C232 50 232 88 202 78 C178 70 178 102 208 96"/>
+  </g>
+</svg>
