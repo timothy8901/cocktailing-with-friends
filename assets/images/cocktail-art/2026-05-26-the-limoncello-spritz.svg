@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Limoncello Spritz cocktail line art</title>
+  <desc id="desc">Black-and-white line drawing of a The Limoncello Spritz served with lemon twist.</desc>
+  <rect width="300" height="300" fill="#fff"/>
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+
+  <path d="M82 76 H218 L198 230 H102 Z"/>
+  <path d="M98 112 H202" stroke-width="4"/>
+  <rect x="116" y="126" width="40" height="40" rx="5" stroke-width="4" transform="rotate(-10 136 146)"/>
+  <rect x="150" y="151" width="38" height="38" rx="5" stroke-width="4" transform="rotate(12 169 170)"/>
+  <path d="M202 60 C232 50 232 88 202 78 C178 70 178 102 208 96"/>
+  </g>
+</svg>
