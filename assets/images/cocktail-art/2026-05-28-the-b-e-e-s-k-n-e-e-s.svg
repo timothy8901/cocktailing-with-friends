@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The B-E-E-S K-N-E-E-S cocktail line art</title>
+  <desc id="desc">Black-and-white modular line drawing of The B-E-E-S K-N-E-E-S: coupe glass, lemon wheel, and sparkles.</desc>
+  <style>svg { color: #111; background: #fff; }</style>
+  <rect width="300" height="300" fill="#fff"/>
+  <defs>
+    <g id="flare-sparkles" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" opacity="0.35">
+  <path d="M56 118 L62 132 L76 138 L62 144 L56 158 L50 144 L36 138 L50 132 Z" stroke-width="4"/>
+  <path d="M240 175 L244 185 L254 189 L244 193 L240 203 L236 193 L226 189 L236 185 Z" stroke-width="4"/>
+</g>
+    <g id="glass-coupe" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M76 86 C88 138 212 138 224 86 Z" stroke-width="7"/>
+  <path d="M150 136 V218" stroke-width="7"/>
+  <path d="M105 218 H195" stroke-width="7"/>
+  <path d="M96 92 C120 112 180 112 204 92" stroke-width="4"/>
+</g>
+    <g id="garnish-lemon-wheel" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="207" cy="77" r="29" stroke-width="7"/>
+  <circle cx="207" cy="77" r="16" stroke-width="4"/>
+  <path d="M207 48 V106 M178 77 H236 M187 57 L227 97 M227 57 L187 97" stroke-width="4"/>
+</g>
+  </defs>
+  <use href="#flare-sparkles"/>
+  <use href="#glass-coupe"/>
+  <use href="#garnish-lemon-wheel"/>
+</svg>
