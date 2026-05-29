@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Midwest Fizz cocktail line art</title>
+  <desc id="desc">Black-and-white modular line drawing of The Midwest Fizz: highball glass, lemon wheel, and spritz bubbles.</desc>
+  <style>svg { color: #111; background: #fff; }</style>
+  <rect width="300" height="300" fill="#fff"/>
+  <defs>
+    <g id="flare-bubbles" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" opacity="0.35">
+  <circle cx="64" cy="72" r="9" stroke-width="4"/>
+  <circle cx="241" cy="121" r="6" stroke-width="4"/>
+  <circle cx="55" cy="170" r="5" stroke-width="4"/>
+  <circle cx="232" cy="43" r="4" stroke-width="4"/>
+</g>
+    <g id="glass-highball" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M92 54 H208 L194 230 H106 Z" stroke-width="7"/>
+  <path d="M104 86 H196" stroke-width="4"/>
+  <rect x="122" y="104" width="34" height="34" rx="4" stroke-width="4" transform="rotate(-8 139 121)"/>
+  <rect x="153" y="143" width="34" height="34" rx="4" stroke-width="4" transform="rotate(9 170 160)"/>
+</g>
+    <g id="garnish-lemon-wheel" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="207" cy="77" r="29" stroke-width="7"/>
+  <circle cx="207" cy="77" r="16" stroke-width="4"/>
+  <path d="M207 48 V106 M178 77 H236 M187 57 L227 97 M227 57 L187 97" stroke-width="4"/>
+</g>
+  </defs>
+  <use href="#flare-bubbles"/>
+  <use href="#glass-highball"/>
+  <use href="#garnish-lemon-wheel"/>
+</svg>
