@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Peach Pear Sangria cocktail line art</title>
+  <desc id="desc">Black-and-white modular line drawing of The Peach Pear Sangria: wine glass, lime wheel, and sunburst rays.</desc>
+  <style>svg { color: #111; background: #fff; }</style>
+  <rect width="300" height="300" fill="#fff"/>
+  <defs>
+    <g id="flare-rays" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" opacity="0.35">
+  <path d="M57 57 L35 35 M72 38 L66 15 M42 91 L17 84 M235 55 L258 32 M226 30 L231 13"/>
+</g>
+    <g id="glass-wine" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M104 54 H196 C195 116 182 156 150 156 C118 156 105 116 104 54 Z" stroke-width="7"/>
+  <path d="M150 156 V224" stroke-width="7"/>
+  <path d="M108 224 H192" stroke-width="7"/>
+  <path d="M112 96 C130 108 170 108 188 96" stroke-width="4"/>
+  <circle cx="132" cy="130" r="4" stroke-width="4"/>
+  <circle cx="168" cy="120" r="3" stroke-width="4"/>
+</g>
+    <g id="garnish-lime-wheel" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="207" cy="77" r="27" stroke-width="7"/>
+  <circle cx="207" cy="77" r="11" stroke-width="4"/>
+  <path d="M207 50 V104 M180 77 H234 M190 60 L224 94 M224 60 L190 94" stroke-width="4"/>
+</g>
+  </defs>
+  <use href="#flare-rays"/>
+  <use href="#glass-wine"/>
+  <use href="#garnish-lime-wheel"/>
+</svg>
